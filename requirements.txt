@@ -7,3 +7,4 @@ pypexels
 gtts
 moviepy
 librosa
+geopy
