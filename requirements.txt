@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+google.generativeai
+plotly
+pandas
+pypexels
+gtts
+moviepy
+librosa
